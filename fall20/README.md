@@ -46,6 +46,7 @@ Week 9:
 Week 10:
 * [625_Storytelling_in_R_exercise.ipynb](625_Storytelling_in_R_exercise.ipynb) - in-class tutorial/exercises
 * [625_Storytelling_in_R_exercise_Sol.ipynb](625_Storytelling_in_R_exercise_Sol.ipynb) - result of in-class discussion
+* Annotation in Vega-Lite - https://observablehq.com/@weiglemc/cs-625-vega-lite-annotations-examples
 
 Week 12:
 * Multi-View Composition in Vega-Lite notebook, https://observablehq.com/@weiglemc/cs-625-multi-view-composition-in-vega-lite
