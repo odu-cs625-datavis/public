@@ -38,13 +38,13 @@ This course will be organized based on the "flipped classroom" model. Students w
 
 This course will be delivered in a hybrid method, with one face-to-face section in a traditional classroom and several online sections available:
 
-* CRN 18816 - in-person (ECSB 2120)
+* CRN 18816 - in-person (TR 9:30-10:45am, ECSB 2120)
 * CRN 18819 - WC2 (in Hampton Roads)
 * CRN 18820 - WC5 (in Virginia, but outside of Hampton Roads)
 * CRN 18821 - WC7 (in the US, but outside of Virginia)
 * CRN 18990 - WC8 (outside of the US)
 
-All course materials, including the link to the Zoom class session, will be made available in Blackboard. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. Unless otherwise specified, online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
+All course materials, including the link to the Zoom class session, will be made available in Blackboard. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. *Online students are strongly encouraged to actively participate in the Zoom session during the regular class meeting time.* Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
 
 ### Fall 2021 COVID-19 Policies
 
