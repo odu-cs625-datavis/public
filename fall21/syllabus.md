@@ -1,5 +1,7 @@
 # CS 625, Fall 2021 Syllabus
 
+[Printable PDF version](syllabus.pdf)
+
 ## Course Overview
 
 *"The purpose of visualization is insight, not pictures." -Ben Shneiderman*
@@ -7,6 +9,12 @@
 **Catalog Description:** This course covers the theory and application of data visualization. This includes issues in data cleaning to prepare data for visualization, theory behind mapping data to appropriate visual representations, introduction to visual analytics, and tools used for data analysis and visualization. Modern visualization software and tools will be used to analyze and visualize real-world datasets to reinforce the concepts covered in the course.
 
 **Comparison to CS 725/825:** If you have already taken CS 725/825, then CS 625 is not appropriate for you. Future offerings of CS 725/825 require CS 625 as a prerequisite.
+
+## Instructor Contact and Office Hours
+
+Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
+
+My office hours will be Tue 11a-12:30p (in-person and/or Zoom) and Thu 4:30-6p (Zoom only), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
 ## Course Objectives
 
@@ -26,23 +34,27 @@ After completing this course, you should be able to do the following:
 
 ## Meeting Times and Course Delivery Method
 
-This course will be organized based on the "flipped classroom" model. Students will be assigned readings and homework that will be due before the class meeting time. There will be few, if any, lectures by the instructor. Class time will be spent on discussions of the readings and assignments, demonstrations, and in-class work. It is essential that each student be fully prepared to participate in class discussions each week.
+This course will be organized based on the "flipped classroom" model. Students will be assigned readings and homework that will be due before the class meeting time. There will be few, if any, lectures by the instructor. Class time will be spent on discussions of the readings and assignments, demonstrations, and in-class work. *It is essential that each student be fully prepared to participate in class discussions each week.*
 
 This course will be delivered in a hybrid method, with one face-to-face section in a traditional classroom and several online sections available:
 
 * CRN 18816 - in-person (ECSB 2120)
-* CRN 18819 - WEB2 (in Hampton Roads)
-* CRN 18820 - WEB5 (in Virginia, but outside of Hampton Roads)
-* CRN 18821 - WEB7 (in the US, but outside of Virginia)
-* CRN 18990 - WEB8 (outside of the US)
+* CRN 18819 - WC2 (in Hampton Roads)
+* CRN 18820 - WC5 (in Virginia, but outside of Hampton Roads)
+* CRN 18821 - WC7 (in the US, but outside of Virginia)
+* CRN 18990 - WC8 (outside of the US)
 
-All course materials, including the link to the Zoom class session, will be made available in Blackboard. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom. Unless otherwise specified, online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
+All course materials, including the link to the Zoom class session, will be made available in Blackboard. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. Unless otherwise specified, online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
 
-### Instructor Contact and Office Hours
+### Fall 2021 COVID-19 Policies
 
-Dr. Michele Weigle: mweigle at cs.odu.edu, https://www.cs.odu.edu/~mweigle/
+As announced on [June 8](https://www.odu.edu/emergency/news/2020/2/novel_coronavirus_co/update-35), all students who participate in on-campus activites must be fully vaccinated or have received an exemption. Unvaccinated students must wear a mask while in class or attending office hours in person.  I have been fully vaccinated.
 
-My office hours will be ***TBA***, or by appointment. Some office hours will be held via Zoom (see Blackboard for the link to the Zoom meeting room). For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+Students who are uncomfortable with participating in the classroom are encouraged to switch to the WC2 section to enable other students who might prefer the face-to-face environment to have a seat.
+
+*You are strongly encouraged to stay home if you are not feeling well.*
+
+The provision of face-to-face lectures and live Zoom streams are contingent on the setup of the classroom and supporting equipment, and the general level of COVID-19 activity in the Hampton Roads area. If I become uncomfortable with the safety precautions being taken, or feel that the classroom environment and equipment detract from the quality of the course, then I reserve the right to change to a pure web conferencing delivery mode. *Additional notes related to ODU's Fall 2021 semester and COVID-19 may be added to this syllabus nearer to the beginning of the semester.*
 
 ## Requirements
 
@@ -150,20 +162,20 @@ I reserve the right to specify that late submissions will not be accepted for pa
 |12|	Nov 16, 18|	Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
 | | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
 |13|	Nov 30, Dec 2|	Multiple Views | Ch 12 (skip 12.4.4)
-|14|	Dec 7, 9|	Manipulate View | Ch 11 (through 11.4)|
+|14|	Dec 7, 9|	Manipulate View | Ch 11 (through 11.5)|
 || Fri, Dec 10|	*last day of classes*
 
 ## Course Policies
 
-### Email/Piazza
+### Email/Blackboard
 
-Each student must check the class Piazza site and email daily. You should use Piazza to ask and answer general course-related questions. I will also use this to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
+Each student must check the class Blackboard site and email daily. You should use our class Blackboard Discussion Board to ask and answer general course-related questions. I will use Blackboard Announcements to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
 
 ### Attendance (in-person students)
 
 Since much of the course is based on discussion and in-class work, I expect you to arrive on time for class. Your grade will be affected if you are consistently tardy. If you have to miss a class, you are responsible checking the course Blackboard site to find any assignments or notes you may have missed. Students may leave after 15 minutes if the instructor or a guest lecturer does not arrive in that time.
 
-If there are days on which the scheduled class meeting time is cancelled due to weather, there may still be assignments made and due. A post will be made to Piazza (with an email notification) whenever the class meeting time is cancelled.
+If there are days on which the scheduled class meeting time is cancelled due to weather, there may still be assignments made and due. A post will be made to Blackboard Announcements whenever the class meeting is cancelled.
 
 ### Classroom Conduct
 
@@ -181,7 +193,7 @@ Students are encouraged to self-disclose disabilities that have been verified by
 
 ### Seeking Help
 
-The course Blackboard site should be your first reference for questions about the class. If you have questions about course requirements or materials, post questions using the class Piazza site. For extra help, attend office hours.
+The course Blackboard site should be your first reference for questions about the class. If you have questions about course requirements or materials, post questions using the class Blackboard Discussion Board. For extra help, attend office hours.
 
 ## Academic Integrity
 
