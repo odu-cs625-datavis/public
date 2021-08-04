@@ -1,6 +1,6 @@
 # CS 625, Fall 2021 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Printable PDF version](syllabus.pdf)
+[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs625-datavis/public/raw/main/fall21/syllabus.pdf)
 
 ## Course Overview
 
