@@ -1,6 +1,6 @@
 # CS 625, Fall 2021 Syllabus
 
-[Printable PDF version](syllabus.pdf)
+[Jump to Summary Schedule](#summary-schedule) | [Printable PDF version](syllabus.pdf)
 
 ## Course Overview
 
