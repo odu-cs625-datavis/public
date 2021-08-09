@@ -4,6 +4,7 @@
 
 * [Syllabus](syllabus.md)
 * [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_385481_1/cl/outline)
+* [Topic Objectives](objectives.md)
 
 ## Summary Schedule
 
