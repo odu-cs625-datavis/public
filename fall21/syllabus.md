@@ -48,7 +48,7 @@ All course materials, including the link to the Zoom class session, will be made
 
 ### Fall 2021 COVID-19 Policies
 
-As announced on [June 8](https://www.odu.edu/emergency/news/2020/2/novel_coronavirus_co/update-35), all students who participate in on-campus activites must be fully vaccinated or have received an exemption. Unvaccinated students must wear a mask while in class or attending office hours in person.  I have been fully vaccinated.
+As announced on [August 11](https://www.odu.edu/news/2021/8/message_from_preside), all students, faculty, and staff who participate in on-campus activites must be fully vaccinated or have received an exemption (and be tested weekly). In addition, face masks are required for all individuals in indoor public spaces, including classrooms.  I have been fully vaccinated.
 
 Students who are uncomfortable with participating in the classroom are encouraged to switch to the WC2 section to enable other students who might prefer the face-to-face environment to have a seat.
 
