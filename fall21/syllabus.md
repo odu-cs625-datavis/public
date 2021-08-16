@@ -14,7 +14,7 @@
 
 Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
 
-My office hours will be Tue 11a-12:30p (in-person and/or Zoom) and Thu 5-6:30p (Zoom only), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+My office hours will be Tue 11a-12:30p (in-person and/or Zoom) and Wed 5-6:30p (Zoom only), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
 ## Course Objectives
 
