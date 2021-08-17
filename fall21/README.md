@@ -10,7 +10,7 @@
 
 |Week |Week Start Date|Topic|Resources and Assignments|
 |---|---|---|---|
-|1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | |
+|1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | [HW1](HW1.md) |
 |2|	Sep 7, 9|	Data and Data Cleaning | |
 |3|	Sep 14, 16|	Marks and Channels | |
 |4|	Sep 21, 23	|Arrange Tables | |
