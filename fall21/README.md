@@ -11,7 +11,7 @@
 |Week |Week Start Date|Topic|Resources and Assignments|
 |---|---|---|---|
 |1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | [HW1](HW1.md) |
-|2|	Sep 7, 9|	Data and Data Cleaning | [Google Colab example](625_F21_Week_02_Data.ipynb)<br/>[OpenRefine tutorial](Wk2-OpenRefine-tutorial.md) |
+|2|	Sep 7, 9|	Data and Data Cleaning | [Google Colab example](625_F21_Week_02_Data.ipynb)<br/>[OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)<br/>[HW2](HW2.md) |
 |3|	Sep 14, 16|	Marks and Channels | |
 |4|	Sep 21, 23	|Arrange Tables | |
 |5|	Sep 28, 30|	Arrange Tables (continued) | |
