@@ -14,7 +14,7 @@ First, download [university-data.csv](university-data.csv) to your local machine
 
 After you choose "Cluster and edit", go to the "# Choices in Cluster" chart and move the left slider over from the edge so that it only shows clusters with more than 1 choice. (*Depending on the version of OpenRefine you have, you may not need to do this -- it may show only clusters with more than 1 choice.*)
 
-As you are examining clusters, you can choose "Browse this cluster" to open up a new window with just the entries in that cluster.
+As you are examining clusters, you can choose "Browse this cluster" to open up a new window with just the entries in that cluster.  (*This link doesn't appear until you hover over the cluster row.*)
 
 **Q2:** *What other countries had issues with spelling? How did you find them?*
 
