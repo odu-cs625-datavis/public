@@ -100,7 +100,7 @@ Now, let's look back at Q6.
 
 **Q22:** *How many universities are listed as in the US?*
 
-Let's also look back at numStudents (Q9-11). Investigate any universities that have more students than the largest university in the world.
+Let's also look back at numStudents (Q9-11). Investigate any US universities that have more students than the largest university in the world.
 
 **Q23:** *What were the universities and what did you update?*
 
