@@ -5,6 +5,8 @@
 * [Syllabus](syllabus.md)
 * [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_385481_1/cl/outline)
 * [Topic Objectives](objectives.md)
+* [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
+  * [VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/), NYU
 
 ## Summary Schedule
 
@@ -12,7 +14,7 @@
 |---|---|---|---|
 |1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | [HW1](HW1.md) |
 |2|	Sep 7, 9|	Data and Data Cleaning | [Google Colab example](625_F21_Week_02_Data.ipynb)<br/>[OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)<br/>[HW2](HW2.md) |
-|3|	Sep 14, 16|	Marks and Channels | |
+|3|	Sep 14, 16|	Marks and Channels | [Vega-Lite Notes and References](https://github.com/odu-cs625-datavis/public/blob/main/fall21/vega-lite.md)<br/>[Vega-Lite tutorial in Observable](https://observablehq.com/d/06499f6a4926793f)<br/>[R tutorial in Google Colab](https://github.com/odu-cs625-datavis/public/blob/main/fall21/625_F21_Marks_Channels_R.ipynb)
 |4|	Sep 21, 23	|Arrange Tables | |
 |5|	Sep 28, 30|	Arrange Tables (continued) | |
 |6|	Oct 5, 7|	Map Color and Other Channels ||
