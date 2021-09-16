@@ -16,15 +16,15 @@
 |2|	Sep 7, 9|	Data and Data Cleaning | [Google Colab example](625_F21_Week_02_Data.ipynb)<br/>[OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)<br/>[HW2](HW2.md) |
 |3|	Sep 14, 16|	Marks and Channels | [Vega-Lite Notes and References](https://github.com/odu-cs625-datavis/public/blob/main/fall21/vega-lite.md)<br/>[Vega-Lite tutorial in Observable](https://observablehq.com/d/06499f6a4926793f)<br/>[R tutorial in Google Colab](https://github.com/odu-cs625-datavis/public/blob/main/fall21/625_F21_Marks_Channels_R.ipynb)
 |4|	Sep 21, 23	|Arrange Tables | [HW3](HW3.md)|
-|5|	Sep 28, 30|	Arrange Tables (continued) | |
-|6|	Oct 5, 7|	Map Color and Other Channels ||
-|7|	Tue, Oct 12<br/>Thu, Oct 14|	**NO CLASS - Fall Break**<br/>Review for Mid-Term Exam| |
-|8|	Tue, Oct 19<br/>Thu, Oct 21|	**MID-TERM EXAM**<br/>**NO CLASS**| |
-|9|	Oct 26, 28|	Reduce Items | 
-|10|	Nov 2, 4|	Exploratory Data Analysis (EDA)
-|11|	Nov 9, 11|	Storytelling Vis
-|12|	Nov 16, 18|	Rules of Thumb, Maps|
+|5|	Sep 28, 30|	Tour through the Visualization Zoo<br/>(Arrange Tables, continued) | |
+|6|	Tue, Oct 5<br/>Thu, Oct 7|	Map Color and Other Channels<br/>*Review for Mid-Term Exam* ||
+||	Tue, Oct 12<br/>Thu, Oct 14|	**NO CLASS - Fall Break**<br/>**MID-TERM EXAM**| |
+|7|	Oct 19, 21|	Reduce Items| |
+|8|	Oct 26, 28|	Exploratory Data Analysis (EDA) | 
+||	Nov 2, 4|	**NO CLASS - Election Day** | |
+|9|	Nov 9, 11|	Storytelling Vis
+|10|	Nov 16, 18|	Rules of Thumb, Maps|
 | | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
-|13|	Nov 30, Dec 2|	Multiple Views | 
-|14|	Dec 7, 9|	Manipulate View | |
+|11|	Nov 30, Dec 2|	Multiple Views | 
+|12|	Dec 7, 9|	Manipulate View | |
 || Fri, Dec 10|	*last day of classes*
