@@ -12,7 +12,7 @@ These datasets come from the collection at https://observablehq.com/@mkfreeman/t
 
 ## Exercises
 
-We'll gather in to groups of 3-4 students per Zoom breakout room. I'll give you 10-15 minutes for each question/task and then we'll gather back to discuss the question. If you finish one question before time's up, continue on to the next questions.
+We'll gather in to groups of 3-4 students per Zoom breakout room. I'll give you 10-15 minutes for each question/task and then we'll gather back to discuss the question. 
 
 For each question/task:
 * Propose idioms that could be used.  Justify your choices by listing
