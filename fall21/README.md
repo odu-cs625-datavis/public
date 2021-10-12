@@ -19,11 +19,11 @@
 |5|	Sep 28, 30|	Tour through the Visualization Zoo<br/>(Arrange Tables, continued) |[Arrange Tables exercises](Wk5-Arrange-Tables-exercises.md) |
 |6|	Tue, Oct 5<br/>Thu, Oct 7|	Map Color and Other Channels<br/>*Review for Mid-Term Exam* |[HW4](HW4.md)|
 ||	Tue, Oct 12<br/>Thu, Oct 14|	**NO CLASS - Fall Break**<br/>**MID-TERM EXAM**| |
-|7|	Oct 19, 21|	Reduce Items| |
-|8|	Oct 26, 28|	Exploratory Data Analysis (EDA) | 
+|7|	Oct 19, 21|	Maps, Rules of Thumb, Chart Design| |
+|8|	Oct 26, 28|	Reduce Items, Exploratory Data Analysis (EDA) | 
 ||	Nov 2, 4|	**NO CLASS - Election Day** | |
 |9|	Nov 9, 11|	Storytelling Vis
-|10|	Nov 16, 18|	Rules of Thumb, Maps|
+|10|	Nov 16, 18|	Visualization Literacy|
 | | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
 |11|	Nov 30, Dec 2|	Multiple Views | 
 |12|	Dec 7, 9|	Manipulate View | |
