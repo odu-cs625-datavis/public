@@ -57,7 +57,24 @@
 * Explain why rainbow colormaps should only be used with great care.
 * For the visual channels other than color, identify which are magnitude and which are identity channels.
 
-## Chapter 13 (through 13.4.1) - Reduce Items
+## Chapter 8 - Maps (8.1-8.3)
+
+* Describe how the arrange design choice is different with spatial data as opposed to tabular data.
+* Describe a choropleth map.
+
+## Chapter 6 - Rules of Thumb
+
+* Explain potential difficulties with the use of 3D visualization.
+* Identify situations in which the use of 3D visualization would be appropriate.
+* Explain why "eyes beat memory".
+* Explain what happens when people experience cognitive load.
+* Define change blindness.
+* Explain the tradeoff between resolution and immersion.
+* Explain the Shneiderman mantra "overview first, zoom and filter, details on demand".
+* Explain the alternate concept of "search, show context, expand on demand" and identify in what situations it may be more appropriate than the Shneiderman mantra.
+* Explain the importance of the design slogan "get it right in black and white".
+
+## Chapter 13 (through 13.4.1) - Reduce Items and 
 
 * Explain the need to reduce data, both in terms of number of items and number of attributes.
 * Explain the difference between filtering and aggregation and the purposes of each.
@@ -80,22 +97,9 @@
 * Describe a stepper in an interactive visualization.
 * Describe how narrative visualization and presentation visualization differ from exploratory/analysis visualization, especially in terms of tools and approaches.
 
-## Chapter 6 - Rules of Thumb
+## Visualization Literacy
 
-* Explain potential difficulties with the use of 3D visualization.
-* Identify situations in which the use of 3D visualization would be appropriate.
-* Explain why "eyes beat memory".
-* Explain what happens when people experience cognitive load.
-* Define change blindness.
-* Explain the tradeoff between resolution and immersion.
-* Explain the Shneiderman mantra "overview first, zoom and filter, details on demand".
-* Explain the alternate concept of "search, show context, expand on demand" and identify in what situations it may be more appropriate than the Shneiderman mantra.
-* Explain the importance of the design slogan "get it right in black and white".
-
-## Chapter 8 - Maps (8.1-8.3)
-
-* Describe how the arrange design choice is different with spatial data as opposed to tabular data.
-* Describe a choropleth map.
+***TBA***
 
 ## Chapter 12 - Multiple Views
 
