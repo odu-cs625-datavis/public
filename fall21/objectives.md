@@ -74,18 +74,15 @@
 * Explain the alternate concept of "search, show context, expand on demand" and identify in what situations it may be more appropriate than the Shneiderman mantra.
 * Explain the importance of the design slogan "get it right in black and white".
 
-## Chapter 13 (through 13.4.1) - Reduce Items and 
+## Chapter 13 (through 13.4.1) - Reduce Items and Exploratory Data Analysis (EDA)
 
 * Explain the need to reduce data, both in terms of number of items and number of attributes.
 * Explain the difference between filtering and aggregation and the purposes of each.
 * Identify instances of scented widgets, as opposed to standard filtering widgets.
 * Contrast histograms with bar charts.
-* Describe the components of a boxplot.
-
-## Exploratory Data Analysis (EDA)
-
-* List the three steps in the iterative cycle of EDA.
 * Explain the importance of binwidth in a histogram.
+* Describe the components of a boxplot.
+* List the three steps in the iterative cycle of EDA.
 * Explain the concept of covariation.
 * Name some questions to ask about patterns found in data.
 * Given a dataset, generate questions aimed at examining correlation and understanding underlying patterns in the data.
