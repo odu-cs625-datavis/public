@@ -6,11 +6,12 @@
 * [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_385481_1/cl/outline)
 * [Topic Objectives](objectives.md)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
-  * [VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/), NYU
+  * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
+  * [EB VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/), NYU
 
 ## Summary Schedule
 
-|Week |Week Start Date|Topic|Resources and Assignments|
+|Week |Week Start Date|Topic|Resources and Assignments| 
 |---|---|---|---|
 |1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | [HW1 - Setup](HW1.md) |
 |2|	Sep 7, 9|	Data and Data Cleaning | [Google Colab example](625_F21_Week_02_Data.ipynb)<br/>[OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)<br/>[HW2 - Data Cleaning](HW2.md) |
@@ -20,7 +21,7 @@
 |6|	Tue, Oct 5<br/>Thu, Oct 7|	Map Color and Other Channels<br/>*Review for Mid-Term Exam* |[HW4 - Arrange Tables](HW4.md)|
 ||	Tue, Oct 12<br/>Thu, Oct 14|	**NO CLASS - Fall Break**<br/>**MID-TERM EXAM**| |
 |7|	Oct 19, 21|	Maps, Rules of Thumb, Chart Design| |
-|8|	Oct 26, 28|	Reduce Items, Exploratory Data Analysis (EDA) | 
+|8|	Oct 26, 28|	Reduce Items, Exploratory Data Analysis (EDA) | [HW5 - Analyzing Data Using Distribution Charts](HW5.md)|
 ||	Nov 2, 4|	**NO CLASS - Election Day** | |
 |9|	Nov 9, 11|	Storytelling Vis
 |10|	Nov 16, 18|	Visualization Literacy|
