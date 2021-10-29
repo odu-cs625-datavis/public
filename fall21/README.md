@@ -16,7 +16,7 @@
 |1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | [HW1 - Setup](HW1.md) |
 |2|	Sep 7, 9|	Data and Data Cleaning | [Google Colab example](625_F21_Week_02_Data.ipynb)<br/>[OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)<br/>[HW2 - Data Cleaning](HW2.md) |
 |3|	Sep 14, 16|	Marks and Channels | [Vega-Lite Notes and References](https://github.com/odu-cs625-datavis/public/blob/main/fall21/vega-lite.md)<br/>[Vega-Lite tutorial in Observable](https://observablehq.com/d/06499f6a4926793f)<br/>[R tutorial in Google Colab](https://github.com/odu-cs625-datavis/public/blob/main/fall21/625_F21_Marks_Channels_R.ipynb)
-|4|	Sep 21, 23	|Arrange Tables | [Arrange Tables examples](Wk4-Arrange-Tables-examples.md)<br/>[HW3 - Re-Create Charts](HW3.md)|
+|4|	Sep 21, 23	|Arrange Tables | [Arrange Tables examples](Wk4-Arrange-Tables-examples.md)<br/>[HW3 - Re-Create Charts](HW3.md)<br/>[HW3 exemplars](https://github.com/odu-cs625-datavis/exemplars/blob/main/HW3-fall21.md)|
 |5|	Sep 28, 30|	Tour through the Visualization Zoo<br/>(Arrange Tables, continued) |[Arrange Tables exercises](Wk5-Arrange-Tables-exercises.md) |
 |6|	Tue, Oct 5<br/>Thu, Oct 7|	Map Color and Other Channels<br/>*Review for Mid-Term Exam* |[HW4 - Arrange Tables](HW4.md)|
 ||	Tue, Oct 12<br/>Thu, Oct 14|	**NO CLASS - Fall Break**<br/>**MID-TERM EXAM**| |
