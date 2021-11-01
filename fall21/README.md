@@ -23,9 +23,9 @@
 |7|	Oct 19, 21|	Maps, Rules of Thumb, Chart Design| |
 |8|	Oct 26, 28|	Reduce Items, Exploratory Data Analysis (EDA) | [HW5 - Analyzing Data Using Distribution Charts](HW5.md)|
 ||	Nov 2, 4|	**NO CLASS - Election Day** | |
-|9|	Nov 9, 11|	Storytelling Vis
-|10|	Nov 16, 18|	Visualization Literacy|
+|9|	Nov 9, 11|	Storytelling Vis| [HW6 - Project - Initial Dataset Exploration](HW6.md)|
+|10|	Nov 16, 18|	Visualization Literacy| [HW7 - Project - Generate In-depth Questions Using EDA](HW7.md)|
 | | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
-|11|	Nov 30, Dec 2|	Multiple Views | 
+|11|	Nov 30, Dec 2|	Multiple Views |  [HW8 - Project - Implement Final Chart](HW8.md)|
 |12|	Dec 7, 9|	Manipulate View | |
 || Fri, Dec 10|	*last day of classes*
