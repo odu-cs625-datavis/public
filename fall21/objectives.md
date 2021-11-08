@@ -96,7 +96,12 @@
 
 ## Visualization Literacy
 
-***TBA***
+* Explain the concept of visual literacy.
+* List 6 tips for spotting misinformation.
+* Demonstrate the use of Fermi estimation.
+* Explain confirmation bias.
+* List 10 suggestions for spotting misinformation online.
+* Given a misleading visualization, identify the misleading elements and suggest how the visualization could be improved.
 
 ## Chapter 12 - Multiple Views
 
