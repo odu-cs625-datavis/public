@@ -11,7 +11,7 @@ The table below provides an overview of the three assignments.
 |---|---|---|
 |HW 6|choose your main dataset, start the EDA process|Tue, Nov 16|
 |HW 7|gather the 2nd dataset, generate specific questions, sketch proposed charts|Tue, Nov 30|
-|HW 8|fully develop the final chart|Sun, Dec 10|
+|HW 8|fully develop the final chart|Sun, Dec 12|
 
 I strongly encourage you to discuss your topic, datasets, questions, and proposed charts with me well in advance of the deadlines. I want to give you feedback as you work through this process. This can be done via email or via Zoom (either during office hours or with a separately scheduled appointment).
 
