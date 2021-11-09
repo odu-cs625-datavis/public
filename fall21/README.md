@@ -23,7 +23,7 @@
 |7|	Oct 19, 21|	Maps, Rules of Thumb, Chart Design| |
 |8|	Oct 26, 28|	Reduce Items, Exploratory Data Analysis (EDA) | [HW5 - Analyzing Data Using Distribution Charts](HW5.md)|
 ||	Nov 2, 4|	**NO CLASS - Election Day** | |
-|9|	Nov 9, 11|	Storytelling Vis| [R Annotations Examples](https://github.com/odu-cs625-datavis/public/blob/main/fall21/CS625_F21_R_Annotations_Examples.ipynb)<br/>[Evga-Lite Annotation Examples](https://observablehq.com/@weiglemc/vega-lite-annotations-examples)<br/>[HW6 - Project - Initial Dataset Exploration](HW6.md)|
+|9|	Nov 9, 11|	Storytelling Vis| [R Annotations Examples](https://github.com/odu-cs625-datavis/public/blob/main/fall21/CS625_F21_R_Annotations_Examples.ipynb)<br/>[Vega-Lite Annotation Examples](https://observablehq.com/@weiglemc/vega-lite-annotations-examples)<br/>[HW6 - Project - Initial Dataset Exploration](HW6.md)|
 |10|	Nov 16, 18|	Visualization Literacy| [HW7 - Project - Generate In-depth Questions Using EDA](HW7.md)|
 | | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
 |11|	Nov 30, Dec 2|	Multiple Views |  [HW8 - Project - Implement Final Chart](HW8.md)|
