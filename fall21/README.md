@@ -26,6 +26,6 @@
 |9|	Nov 9, 11|	Storytelling Vis| [R Annotations Examples](https://github.com/odu-cs625-datavis/public/blob/main/fall21/CS625_F21_R_Annotations_Examples.ipynb)<br/>[Vega-Lite Annotation Examples](https://observablehq.com/@weiglemc/vega-lite-annotations-examples)<br/>[HW6](HW6.md) - Project - Initial Dataset Exploration|
 |10|	Nov 16, 18|	Visualization Literacy|[HW7](HW7.md) - Project - Generate In-depth Questions Using EDA|
 | | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
-|11|	Nov 30, Dec 2|	Multiple Views |[Vega-Lite Multi-View Composition Examples](https://observablehq.com/@weiglemc/cs-625-multi-view-composition-in-vega-lite?collection=@weiglemc/cs625)<br/>[HW8](HW8.md) - Project - Implement Final Chart|
+|11|	Nov 30, Dec 2|	Multiple Views |[Vega-Lite Multi-View Composition Examples](https://observablehq.com/@weiglemc/cs-625-multi-view-composition-in-vega-lite?collection=@weiglemc/cs625)<br/>[Vega-Lite Trellis Plot Examples](https://observablehq.com/@weiglemc/trellis-plot-examples-in-vega-lite)<br/>[HW8](HW8.md) - Project - Implement Final Chart|
 |12|	Dec 7, 9|	Manipulate View | |
 || Fri, Dec 10|	*last day of classes*
