@@ -4,9 +4,9 @@ I've recently come across a couple nice examples of combining datasets in visual
 
 ### Missouri Mask Mandates and COVID Case Rates
 
-[imgs/missouri-mask-cases.png]
+<img src="imgs/missouri-mask-cases.png" height="400"/>
 
-This visualization comes from an article in the *Missouri Independent* news, ["Missouri health department found mask mandates work, but didn’t make findings public"](https://missouriindependent.com/2021/12/01/missouri-health-department-found-mask-mandates-work-but-didnt-make-findings-public/). 
+This visualization comes from an article in the *Missouri Independent* news, ["Missouri health department found mask mandates work, but didn’t make findings public"](https://missouriindependent.com/2021/12/01/missouri-health-department-found-mask-mandates-work-but-didnt-make-findings-public/) ([larger version w/tooltips](https://datawrapper.dwcdn.net/gSx9f/4/))
 
 It splits out the case rates in St. Louis, St. Louis County, Kansas City and Jackson County (all with mask mandates) from the rest of the state. They found that "jurisdictions with mask mandates averaged 15.8 cases per day for every 100,000 residents, compared to 21.7 in unmasked communities."
 
@@ -17,9 +17,7 @@ Data combinations:
 
 ### California Spending on Universities and Dept of Corrections
 
-[imgs/california-univ-corrections.png]
-
-https://pbs.twimg.com/media/FFZVdWYUYAscalK?format=jpg&name=medium
+<img src="imgs/california-univ-corrections.jpeg" height="400"/>
 
 "This shocking graph is from a new @SREJournal article by Hamilton, Nielsen, and Larma. Over the past 50 years, California state budget priorities for university and incarceration have dramatically reversed. As HE funding declines, minority students suffer."  
 Source: https://twitter.com/nathanihoff/status/1465454549385105410
@@ -32,9 +30,9 @@ Note that the raw amounts aren't used, but rather the share of the state budget 
 
 ### Louisiana COVID Cases, Deaths, Vaccinations
 
-[imgs/louisiana-covid.png]
+<img src="imgs/louisiana-covid.png" height="400"/>
 
-This visualization comes from an article in *The Times-Picayune | The New Orleans Advocate*, ["Louisiana COVID numbers: Data on cases, deaths, hospitalizations, vaccines"](https://www.nola.com/news/coronavirus/article_7cb2af1c-6414-11ea-b729-93612370dd94.html) ([archived version, Sep 2021](http://web.archive.org/web/20210927011921/https://www.nola.com/news/coronavirus/article_7cb2af1c-6414-11ea-b729-93612370dd94.html)
+This visualization comes from an article in *The Times-Picayune | The New Orleans Advocate*, ["Louisiana COVID numbers: Data on cases, deaths, hospitalizations, vaccines"](https://www.nola.com/news/coronavirus/article_7cb2af1c-6414-11ea-b729-93612370dd94.html) ([archived version, Sep 2021](http://web.archive.org/web/20210927011921/https://www.nola.com/news/coronavirus/article_7cb2af1c-6414-11ea-b729-93612370dd94.html))
 
 Data combinations:
 * COVID cases, 7-day average
@@ -45,7 +43,7 @@ Data combinations:
 
 ## US Poverty Rate, IRS Auditing Rate, and 2016 Political Affiliation
 
-[imgs/Poverty-Audit-Rate2.png]
+<a href="imgs/Poverty-Audit-Rate2.png" height="400"/>
 
 This visualization comes from [Geographic Distribution of IRS Auditing Rates](https://policyviz.com/2019/05/02/geographic-distribution-of-irs-auditing-rates/) in [PolicyViz.com](https://policyviz.com). 
 
