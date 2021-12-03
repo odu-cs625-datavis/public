@@ -43,7 +43,7 @@ Data combinations:
 
 ## US Poverty Rate, IRS Auditing Rate, and 2016 Political Affiliation
 
-<a href="imgs/Poverty-Audit-Rate2.png" height="400"/>
+<img src="imgs/Poverty-Audit-Rate2.png" height="400"/>
 
 This visualization comes from [Geographic Distribution of IRS Auditing Rates](https://policyviz.com/2019/05/02/geographic-distribution-of-irs-auditing-rates/) in [PolicyViz.com](https://policyviz.com). 
 
