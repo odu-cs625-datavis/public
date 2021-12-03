@@ -2,7 +2,7 @@
 
 I've recently come across a couple nice examples of combining datasets in visualizations. I'll show them here along with previous examples that I've shown.
 
-### Missouri Mask Mandates and COVID Case Rates
+## Missouri Mask Mandates and COVID Case Rates
 
 <img src="imgs/missouri-mask-cases.png" height="400"/>
 
@@ -15,7 +15,7 @@ Data combinations:
 * Set of counties that had mask mandates
 * Dates of significant events around Delta, case surges, and mask mandates
 
-### California Spending on Universities and Dept of Corrections
+## California Spending on Universities and Dept of Corrections
 
 <img src="imgs/california-univ-corrections.jpeg" height="400"/>
 
@@ -28,7 +28,7 @@ Data combinations:
 
 Note that the raw amounts aren't used, but rather the share of the state budget those amounts represent.  This allows the lines to be drawn on the same chart with the same scale.
 
-### Louisiana COVID Cases, Deaths, Vaccinations
+## Louisiana COVID Cases, Deaths, Vaccinations
 
 <img src="imgs/louisiana-covid.png" height="400"/>
 
@@ -45,7 +45,7 @@ Data combinations:
 
 <img src="imgs/Poverty-Audit-Rate2.png" height="400"/>
 
-This visualization comes from [Geographic Distribution of IRS Auditing Rates](https://policyviz.com/2019/05/02/geographic-distribution-of-irs-auditing-rates/) in [PolicyViz.com](https://policyviz.com). 
+This visualization comes from ["Geographic Distribution of IRS Auditing Rates"](https://policyviz.com/2019/05/02/geographic-distribution-of-irs-auditing-rates/) in [PolicyViz.com](https://policyviz.com). 
 
 Data combinations:
 * US poverty rate by county, from https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_S1903&prodType=table
