@@ -2,6 +2,18 @@
 
 I've recently come across a couple nice examples of combining datasets in visualizations. I'll show them here along with previous examples that I've shown.
 
+## US COVID Case Rates and US County Demographics
+
+<img src="imgs/US-covid-metro.png" height="400"/>
+
+I saw this visualization through a [tweet by @agsciencewriter](https://twitter.com/agsciencewriter/status/1467521843162750976).  It's based on data from the CDC and can be reproduced at [Trends in COVID-19 Cases and Deaths in the United States, by County-level Population Factors](https://covid.cdc.gov/covid-data-tracker/#pop-factors_7daynewcases).
+
+Read the "Footnotes" section to understand where all of the data comes from and how it's calculated.
+
+Data combinations:
+* COVID case rate by county
+* US county metro vs. non-metro classification, from https://www.cdc.gov/nchs/data_access/urban_rural.htm
+
 ## Missouri Mask Mandates and COVID Case Rates
 
 <img src="imgs/missouri-mask-cases.png" height="400"/>
