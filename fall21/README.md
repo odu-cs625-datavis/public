@@ -8,6 +8,7 @@
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
   * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
   * [EB VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/), NYU
+* [Examples of Combining Datasets](combining-datasets.md)
 
 ## Summary Schedule
 
