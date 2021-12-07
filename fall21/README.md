@@ -28,5 +28,5 @@
 |10|	Nov 16, 18|	Visualization Literacy|[HW7](HW7.md) - Project - Generate In-depth Questions Using EDA|
 | | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
 |11|	Nov 30, Dec 2|	Multiple Views |[Strategies for Managing Complexity](Ch12-managing-complexity.md)<br/>[Vega-Lite Multi-View Composition Examples](https://observablehq.com/@weiglemc/cs-625-multi-view-composition-in-vega-lite?collection=@weiglemc/cs625)<br/>[Vega-Lite Trellis Plot Examples](https://observablehq.com/@weiglemc/trellis-plot-examples-in-vega-lite)<br/>[HW8](HW8.md) - Project - Implement Final Chart|
-|12|	Dec 7, 9|	Manipulate View | |
+|12|	Dec 7, 9|	Manipulate View |[Vega-Lite Interaction Examples](https://observablehq.com/@weiglemc/cs-625-interaction) |
 || Fri, Dec 10|	*last day of classes*
