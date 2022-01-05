@@ -12,9 +12,9 @@
 
 ## Instructor Contact and Office Hours
 
-Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
+Dr. Faryaneh Poursardar: poursardar at cs.odu.edu
 
-My office hours will be Tue 11a-12:30p (in-person and/or Zoom) and Wed 5-6:30p (Zoom only), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+My office hours will be Tuesday from 12:45 PM to 2:45 PM via Zoom or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
 ## Course Objectives
 
@@ -34,27 +34,24 @@ After completing this course, you should be able to do the following:
 
 ## Meeting Times and Course Delivery Method
 
-This course will be organized based on the "flipped classroom" model. Students will be assigned readings and homework that will be due before the class meeting time. There will be few, if any, lectures by the instructor. Class time will be spent on discussions of the readings and assignments, demonstrations, and in-class work. *It is essential that each student be fully prepared to participate in class discussions each week.*
+This course will be organized based on the "flipped classroom" model. This course has been originally developed by Dr. Michele Weigle. I will continue the same format for the course. Students will be assigned readings and homework that will be due before the class meeting time. There will be few, if any, lectures by the instructor. Class time will be spent on discussions of the readings and assignments, demonstrations, and in-class work. *It is essential that each student be fully prepared to participate in class discussions each week.*
 
-This course will be delivered in a hybrid method, with one face-to-face section in a traditional classroom and several online sections available:
 
-* CRN 18816 - in-person (TR 9:30-10:45am, ECSB 2120)
-* CRN 18819 - WC2 (in Hampton Roads)
-* CRN 18820 - WC5 (in Virginia, but outside of Hampton Roads)
-* CRN 18821 - WC7 (in the US, but outside of Virginia)
-* CRN 18990 - WC8 (outside of the US)
+This course will be delivered face-to-face in a traditional classroom:
 
-All course materials, including the link to the Zoom class session, will be made available in Blackboard. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. *Online students are strongly encouraged to actively participate in the Zoom session during the regular class meeting time.* Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
+* CRN 31662 - in-person (TR 9:30-10:45am, KAUF 213)
 
-### Fall 2021 COVID-19 Policies
 
-As announced on [August 11](https://www.odu.edu/news/2021/8/message_from_preside), all students, faculty, and staff who participate in on-campus activites must be fully vaccinated or have received an exemption (and be tested weekly). In addition, face masks are required for all individuals in indoor public spaces, including classrooms.  I have been fully vaccinated.
+All course materials will be made available in Blackboard. 
+All deadlines are based on the local timezone in Norfolk, VA.
 
-Students who are uncomfortable with participating in the classroom are encouraged to switch to the WC2 section to enable other students who might prefer the face-to-face environment to have a seat.
+### Spring 2022 COVID-19 Policies
+
+As announced on [January 3rd](https://www.odu.edu/news/2022/1/covid_19_update_spri#.YdXaDmjMJPY), all students, faculty, and staff who participate in on-campus activites must be fully vaccinated or have received an exemption (and be tested weekly). In addition, face masks are required for all individuals in indoor public spaces, including classrooms.  I have been fully vaccinated.
 
 *You are strongly encouraged to stay home if you are not feeling well.*
 
-The provision of face-to-face lectures and live Zoom streams are contingent on the setup of the classroom and supporting equipment, and the general level of COVID-19 activity in the Hampton Roads area. If I become uncomfortable with the safety precautions being taken, or feel that the classroom environment and equipment detract from the quality of the course, then I reserve the right to change to a pure web conferencing delivery mode. *Additional notes related to ODU's Fall 2021 semester and COVID-19 may be added to this syllabus nearer to the beginning of the semester.*
+This course may have to modify its in-person instruction based on guidance from ODU and the Virginia Department of Health. It may entail moving to an online format if COVID-19 infections require such a move. Students should pay close attention to class announcements on Blackboard for changes to course delivery. The provision of face-to-face lectures and live Zoom streams are contingent on the setup of the classroom and supporting equipment, and the general level of COVID-19 activity in the Hampton Roads area. If I become uncomfortable with the safety precautions being taken, or feel that the classroom environment and equipment detract from the quality of the course, then I reserve the right to change to a pure web conferencing delivery mode. *Additional notes related to ODU's Spring 2022 semester and COVID-19 may be added to this syllabus nearer to the beginning of the semester.*
 
 ## Requirements
 
@@ -149,22 +146,22 @@ I reserve the right to specify that late submissions will not be accepted for pa
 
 |Week |Date|Topic| Textbook Reading|
 |---|---|---|---|
-|1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | Ch 1|
-|2|	Sep 7, 9|	Data and Data Cleaning | Ch 2|
-|3|	Sep 14, 16|	Marks and Channels | Ch 5|
-|4|	Sep 21, 23	|Arrange Tables | Ch 7|
-|5|	Sep 28, 30|	Arrange Tables (continued) | Ch 7|
-|6|	Oct 5, 7|	Map Color and Other Channels | Ch 10|
-|7|	Tue, Oct 12<br/>Thu, Oct 14|	**NO CLASS - Fall Break**<br/>Review for Mid-Term Exam| |
-|8|	Tue, Oct 19<br/>Thu, Oct 21|	**MID-TERM EXAM**<br/>**NO CLASS**| |
-|9|	Oct 26, 28|	Reduce Items | Ch 13 (through 13.4.1)
-|10|	Nov 2, 4|	Exploratory Data Analysis (EDA)
-|11|	Nov 9, 11|	Storytelling Vis
-|12|	Nov 16, 18|	Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
-| | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
-|13|	Nov 30, Dec 2|	Multiple Views | Ch 12 (skip 12.4.4)
-|14|	Dec 7, 9|	Manipulate View | Ch 11 (through 11.5)|
-|| Fri, Dec 10|	*last day of classes*
+|1|	Jan 11, 13|	Introduction, What's Vis and Why Do It? | Ch 1|
+|2|	Jan 18, 20|	Data and Data Cleaning | Ch 2|
+|3|	Jan 25, 27|	Marks and Channels | Ch 5|
+|4|	Feb 1, 3	|Arrange Tables | Ch 7|
+|5|	Feb 8, 10|	Arrange Tables (continued) | Ch 7|
+|6|	Feb 15, 17|	Map Color and Other Channels | Ch 10|
+|7|	Tue, Feb 22<br/>Tue, Feb 22|	**NO CLASS**<br/>Review for Mid-Term Exam| |
+|8|	Thu, Feb 24<br/>Thu, Feb 24|	**MID-TERM EXAM**<br/>**NO CLASS**| |
+|9|	Mar 1, 3|	Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
+| | Mar 8, 10|**NO CLASS - Spring Break** | |
+|10|	Mar 15, 17|	Exploratory Data Analysis (EDA)
+|11|	Mar 22, 24|	Storytelling Vis
+|12|	Mar 29, 31|	Reduce Items | Ch 13 (through 13.4.1)
+|13|	Apr 5, 7|	Multiple Views | Ch 12 (skip 12.4.4)
+|14|	Apr 12, 14|	Manipulate View | Ch 11 (through 11.5)|
+|| Mon, Apr 25|	*last day of classes*
 
 ## Course Policies
 
