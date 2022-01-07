@@ -2,7 +2,7 @@
 
 ## Links
 
-* [Syllabus](syllabus.md)
+* [Syllabus](Syllabus.md)
 * [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_394363_1/cl/outline)
 * [Topic Objectives](objectives.md)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
