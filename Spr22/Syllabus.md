@@ -152,8 +152,8 @@ I reserve the right to specify that late submissions will not be accepted for pa
 |4|	Feb 1, 3	|Arrange Tables | Ch 7|
 |5|	Feb 8, 10|	Arrange Tables (continued) | Ch 7|
 |6|	Feb 15, 17|	Map Color and Other Channels | Ch 10|
-|7|	Tue, Feb 22<br/>Tue, Feb 22|	**NO CLASS**<br/>Review for Mid-Term Exam| |
-|8|	Thu, Feb 24<br/>Thu, Feb 24|	**MID-TERM EXAM**<br/>**NO CLASS**| |
+|7|	Tue, Feb 22|	**NO CLASS**<br/>Review for Mid-Term Exam| |
+|8|	Thu, Feb 24|	**MID-TERM EXAM**<br/>**NO CLASS**| |
 |9|	Mar 1, 3|	Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
 | | Mar 8, 10|**NO CLASS - Spring Break** | |
 |10|	Mar 15, 17|	Exploratory Data Analysis (EDA)
