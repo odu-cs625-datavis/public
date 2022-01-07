@@ -75,7 +75,7 @@ You will be required to write clearly about your visualization designs and desig
 * Writing for Computer Science by Justin Zobel
 * The Elements of Style by Strunk and White
 
-In addition, see the online writing resources collected on the ODU-CS [New Student Resources page](https://graduate.cs.odu.edu/resources/new-students/#Writing).
+In addition, see the online student resources collected on Dr. Weigle's website: [New Student Resources page](https://weiglemc.github.io/new-student/#writing).
 
 ## Grading
 
@@ -142,7 +142,7 @@ I reserve the right to specify that late submissions will not be accepted for pa
 
 *Note: This is a tentative schedule and may change during the semester. The complete schedule with assignments and due dates is posted on Blackboard.*
 
-[ODU Fall 2021 academic schedule](https://www.odu.edu/academics/calendar/fall)
+[ODU Spring 2022 academic schedule](https://www.odu.edu/academics/calendar/spring)
 
 |Week |Date|Topic| Textbook Reading|
 |---|---|---|---|
@@ -212,7 +212,7 @@ Students may still provide legitimate assistance to one another. You are encoura
 
 All students are responsible for knowing the rules. If you are unclear about whether a certain activity is allowed or not, please contact the instructor.
 
-More information on academic integrity is available on the ODU-CS [academic integrity page](https://graduate.cs.odu.edu/resources/academic-integrity).
+More information on academic integrity is available on the ODU [academic integrity page](https://www.odu.edu/oscai).
 
 ## Statement from ODU Counseling Services
 
