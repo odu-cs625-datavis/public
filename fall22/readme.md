@@ -1,9 +1,9 @@
-# ODU CS 625 - Data Visualization, Spring 2022
+# ODU CS 625 - Data Visualization, Fall 2022
 
 ## Links
 
 * [Syllabus](Syllabus.md)
-* [Course Materials on Blackboard](https://canvas.odu.edu/courses/125570/pages/welcome-to-cs-625)
+* [Course Materials on Canvas](https://canvas.odu.edu/courses/125570/pages/welcome-to-cs-625)
 * [Topic Objectives](objectives.md)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
   * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
