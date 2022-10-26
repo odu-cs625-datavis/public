@@ -66,7 +66,7 @@ In addition, for online formats include links to the source in your report:
 
 * R or Python: if you used Google Colab, include the link to your notebook (save a copy to your GitHub repo)
 * Vega-Lite: link to Observable notebook that generates the chart
-* Google Sheets: link to shared Google Sheets (share with poursardar@<nolink>cs.odu.edu and kgarg001@odu.edu)
+* Google Sheets: link to shared Google Sheets (share with poursardar@<nolink>cs.odu.edu and kgarg001@<nolink>odu.edu)
 * Tableau: publish your Tableau notebook to our class Tableau online site and include the link to your workbook in your report
   * see https://help.tableau.com/current/pro/desktop/en-us/publish_workbooks_share.htm
   * *set permissions so that only you and I can view the workbook*, see https://help.tableau.com/current/pro/desktop/en-us/publish_workbooks_permissions_add.htm
