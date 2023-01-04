@@ -1,4 +1,4 @@
-# ODU CS 625 - Data Visualization, Fall 2022
+# ODU CS 625 - Data Visualization, Spring 2023
 
 ## Links
 
