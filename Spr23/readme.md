@@ -14,19 +14,18 @@
 
 |Week |Date|Topic| Textbook Reading|
 |---|---|---|---|
-|1|	Aug 30, Sep 1|	Introduction, What's Vis and Why Do It? | Ch 1 |
-|2|	Sep 6, 8|	Data and Data Cleaning | Ch 2|
-|3|	Sep 13, 15|	Marks and Channels | Ch 5|
-|4|	Sep 20, 22	|Arrange Tables | Ch 7|
-|5|	Sep 27, 29|	Arrange Tables (continued) | Ch 7|
-|6|	Oct 4, 6|	Map Color and Other Channels | Ch 10|
-|7|	Tue, Oct 11<br/>Thu, Oct 13|	**NO CLASS** Review for Mid-Term Exam<br/>**MID-TERM EXAM**| |
-|8|	Oct 18, 20|	Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
-|9| Oct 25, 27|	Reduce Items | Ch 13 (through 13.4.1)
-|10| Nov 1, 3|	Storytelling Vis
-|11| Nov 8, 10|**NO CLASS(T,R) - Election Day** | |
-|12| Nov 15, 17| Exploratory Data Analysis (EDA)| |
-|13| Nov 22, 24|**NO CLASS - Thanksgiving Break** | |
-|14| Nov 29, Dec 1|	Multiple Views | Ch 12 (skip 12.4.4)
-|15| Dec 6, 8|	Manipulate View | Ch 11 (through 11.5)|
-|| Fri, Dec 9|	*last day of classes*
+|1|	Jan 10, 12|	Introduction, What's Vis and Why Do It? | Ch 1|
+|2|	Jan 17, 19|	Data and Data Cleaning | Ch 2|
+|3|	Jan 24, 26|	Marks and Channels | Ch 5|
+|4|	Jan 31,Feb 1	|Arrange Tables | Ch 7|
+|5|	Feb 7, 9|	Arrange Tables (continued) | Ch 7|
+|6|	Feb 14, 16|	Map Color and Other Channels | Ch 10|
+|7|	Tue, Feb 21<br/>Thu, Feb 23|	**NO CLASS** Review for Mid-Term Exam<br/>**MID-TERM EXAM**| |
+|8|	Feb 28, Mar 2|	Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
+|9| Mar 7, 9|**NO CLASS - Spring Break** | |
+|10|	Mar 15, 16|	Exploratory Data Analysis (EDA)
+|11|	Mar 21, 23|	Storytelling Vis
+|12|	Mar 28, 30|	Reduce Items | Ch 13 (through 13.4.1)
+|13|	Apr 4, 6|	Multiple Views | Ch 12 (skip 12.4.4)
+|14|	Apr 11, 13|	Manipulate View | Ch 11 (through 11.5)|
+|| Mon, Apr 24|	*last day of classes*
