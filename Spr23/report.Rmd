@@ -1,7 +1,7 @@
 ---
-title: "HW 1, CS 625, Fall 2022"
-author: "Dr. Faryaneh Poursardar"
-date: Aug 20, 2022
+title: "HW 1, CS 625, Spring 2023"
+author: "BACCHU RAMESH KUMAR"
+date: JAN 19, 2023
 output: rmarkdown::github_document
 ---
 
@@ -12,32 +12,53 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Git, GitHub
 
 1. *What is your GitHub username?*
+    **rbacc001**
 
 2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?*
-
+    **https://github.com/rbacc001?tab=repositories**
 ## R
 
 The command below will load the tidyverse package.  If you have installed R, RStudio, and the tidyverse package, it should display a list of loaded packages and their versions.
 ```{r}
 library(tidyverse)
 ```
-
+### -- Attaching packages -------------------------------------------------------------------------------- tidyverse 1.3.2 --
+  #### v ggplot2 3.4.0      v purrr   1.0.1 
+  #### v tibble  3.1.8      v dplyr   1.0.10
+  #### v tidyr   1.2.1      v stringr 1.5.0 
+  #### v readr   2.1.3      v forcats 0.5.2 
+### -- Conflicts ----------------------------------------------------------------------------------- tidyverse_conflicts() --
+  #### x dplyr::filter() masks stats::filter()
+  #### x dplyr::lag()    masks stats::lag()
 ## R Markdown 
 
 1. *Create a bulleted list with at least 3 items*
-
+  ##   item 1: mango
+  ## item 2: apple
+  ## item 3: grapes
+ 
 2. *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
-
+    *My name is Ramesh*.
+    # I am from India
+    # *I have taken computer science course*
+    ```		{r, echo = FALSE}
+		numericInput("n","How many cars?", 5)
+		renderTable({head(cars, input$n)
+		})
+     ```
+    [link for google](www.google.com)
+    
 3. *Create a level 3 heading*
-
+    ### level 3 heading
+    
 ## R 
 
 #### Data Visualization Exercises
 
 1. (Q2) *How many rows are in mpg? How many columns?*
-
+      # *There are 234 rows and 11 columns in mpg
 1. (Q4) *Make a scatterplot of hwy vs cyl.*
-
+      # ggplot(data = mpg) + geom_point(mapping = aes(x = displ, y = hwy))
 
 #### Workflow: basics Exercises
 
@@ -53,25 +74,44 @@ fliter(mpg, cyl = 8)
 filter(diamond, carat > 3)
 ```
 
+# library(tidyverse) is corrext
+
+# ggplot(dota = mpg) + geom_point(mapping = aes(x = displ, y = hwy)) is wrong
+ ## correct answer is ggplot(data = mpg) + geom_point(mapping = aes(x = displ, y = hwy))
+
+# fliter(mpg, cyl = 8) is wrong
+ ## correct answer is filter(mpg, cyl = 8)
+
+# filter(diamond, carat > 3) is wrong since there are no object defined as diamond in data.
+ ## correct answer is 
 ## Google Colab
 
 1. *What are the URLs of your Google Colab notebooks (both Python and R)?*
+   # url for google colab python and R Notebook
+    # https://drive.google.com/drive/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab)
+   # changes done in google colab in python file https://colab.research.google.com/drive/1PgeZcluBEflSWSi6H_1eh9FaOnTLROps?usp=sharing
+   
+   # changes done in google colab R Notebook https://colab.research.google.com/drive/1kQ6pmlcA7OR1NNIscIBl7sVvnImZJqkz?usp=sharing
 
 ## Tableau
 
 *Insert your the image of your final bar chart here*
+# ![an image caption Source: SalesintheEastHW1](https://github.com/odu-cs625-datavis/spring23-hw1-rbacc001/blob/master/SalesintheEastHW1.png))
 
 1. *What conclusions can you draw from the chart?*
-
+    # In the chart we can see the sales vs profit per year. As the year increases the profit also increases especially for storage and technology. There is also a high       demand in furniture. This only covers East part of the region.
 ## Observable and Vega-Lite
 
 ### A Taste of Observable
 
 1. *In the "New York City weather forecast" section, try replacing `Forecast: detailedForecast` with `Forecast: shortForecast`. Then press the blue play button  or use Shift-Return to run your change. What happens?*
+ # Then it only shows some minor details.
 
 1. *Under the scatterplot of temperature vs. name, try replacing `markCircle()` with `markSquare()`. Then press the blue play button  or use Shift-Return to run your change. What happens? How about `markPoint()`?*
+ # if we change 'markCircle()' to 'markSquare()' then the plot of circles changes to square. Similarly if we change to 'markPoint()' then plot changes to hallow circles.
 
 1. *Under "Pick a location, see the weather forecast", pick a location on the map.  Where was the point you picked near?*
+# Longitude: -119.36     latitude: 35.62
 
 1. *The last visualization on this page is a "fancy" weather chart embedded from another notebook.  Click on the 3 dots next to that chart and choose 'Download PNG'.  Insert the PNG into your report.*
 
@@ -80,26 +120,32 @@ filter(diamond, carat > 3)
 `markCircle()`
 
 1. *Pass an option of `{ size: 200 }` to `markCircle()`.*
-1. *Try `markSquare` instead of `markCircle`.*
-1. *Try `markPoint({ shape: 'diamond' })`.*
-
+ # Size increased to 200
+3. *Try `markSquare` instead of `markCircle`.*
+ # The dots have changed to square
+5. *Try `markPoint({ shape: 'diamond' })`.*
 `vl.x().fieldQ("Horsepower")`, ...
 
 1. *Change `Horsepower` to `Acceleration`*
-1. *Swap what fields are displayed on the x- and y-axis*
-
+ # axis are changed
+3. *Swap what fields are displayed on the x- and y-axis*
+# 
 `vl.tooltip().fieldN("Name")`
 
 1. *Change `Name` to `Origin`.*
-
+ # If we use Name then all the car name can be seen and if we replace/change with Origin then we only see the country name where the cars are manufactured/came.
 Another example, `count()`
 
 1. *Remove the `vl.y().fieldN("Origin")` line.*
-1. *Replace `count()` with `average("Miles_per_Gallon")`.*
-
+ # count of records on X-Axis is displayed
+3. *Replace `count()` with `average("Miles_per_Gallon")`.*
+ # Values are changed on X-Axis
 ## References
 
 *Every report must list the references that you consulted while completing the assignment. If you consulted a webpage, you must include the URL.*
 
-* Insert Reference 1, https://www.example.com
-* Insert Reference 2, https://www.example.com/reallyreallyreally-extra-long-URI/
+* Insert Reference 1, https://colab.research.google.com/notebooks/basic_features_overview.ipynb
+* Insert Reference 2, https://r4ds.had.co.nz/r-markdown.html
+* Insert Reference 3, https://observablehq.com/@observablehq/vega-lite
+* Insert Reference 4, https://observablehq.com/@observablehq/a-taste-of-observable
+* Insert Reference 5, 
