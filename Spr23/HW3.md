@@ -84,3 +84,4 @@ Submit the URL of your report (*not the URL of your repo*) in Canvas:
 * Under "Assignment Submission", click the "Write Submission" button.
 * Copy/paste the URL of your `report.md` file into the edit box (should be something like https<nolink>://github.com/odu-cs625-datavis/fall22-hw3-*username*/blob/master/report.md)
 * Make sure to "Submit" your assignment.
+
